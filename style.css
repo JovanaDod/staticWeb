@@ -1,0 +1,152 @@
+
+.sailor{
+	color: gray;
+}
+
+.color{
+	color: red;
+}
+
+.custom{
+	position: sticky;
+	top: 0;
+	z-index: 1;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	    color: red;
+	}
+
+.dropdown-item:hover{
+	color: red;
+}
+
+.dropdown-menu .second-dropdown{
+	margin-top: 135px;
+}
+
+/*navcode*/
+
+.hero{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("images/slide-1.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 700px;
+	padding-top: 15%;
+	font-size: 20px;
+}
+
+
+.hero-2{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("images/slide-2.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 700px;
+	padding-top: 15%;
+	font-size: 20px;
+}
+
+
+.hero-3{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("images/slide-3.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 700px;
+	padding-top: 15%;
+	font-size: 20px;
+}
+
+
+.carousel-indicators li {
+	background-color: white;
+	height: 15px;
+	width: 15px;
+	border-radius: 50%;
+}
+
+.carousel-indicators .active{
+	background-color: red;
+}
+
+/*carousel code*/
+
+
+.icon{
+	color: darkred;
+}
+
+.fa-solid, .fas{
+	padding-top: 5px;
+}
+
+/*para code*/
+
+.bg-images{
+	background-color: whitesmoke;
+}
+
+img {
+	filter: grayscale(100);
+	transition: all 0.4s ease-in-out;
+}
+
+img:hover {
+    filter: none;
+    transform: scale(1.15);
+}
+
+a.btn-hov{
+	color: black;
+}
+
+a .btn-hov:hover{
+	color: white;
+}
+
+/*cards code*/
+
+.custom-icon{
+	color: #D3073C;
+}
+
+.media:hover .custom-hov{
+	color: #D3073C; 
+}
+
+.tab-content .tab-pane .images img.img-fluid{
+	width: 300px;
+	height: auto;
+}
+
+/*pictures code*/
+
+.footer-top{
+	background: #515d6a;
+	padding: 60px 0 30px 0;
+}
+
+.footer-icons{
+ 	padding-right: 10px;
+
+ }
+
+ 
+.footer-icons a:hover{
+	background: red;
+}
+
+.bg{
+	background: #d9232d;
+	border: none;
+}
+
+.footer-bottom{
+	background-color:#4a5562 ;
+}
+
+/*footer code*/
+
+
+
+
+

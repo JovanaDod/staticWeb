@@ -1,0 +1,70 @@
+
+.sailor{
+	color: gray;
+}
+
+.color{
+	color: red;
+}
+
+.custom{
+	position: sticky;
+	top: 0;
+	z-index: 1;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	    color: red;
+	}
+
+.dropdown-item:hover{
+	color: red;
+}
+
+/*navcode*/
+
+.hero{
+	background-image: url("images/slide-1.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 700px;
+	padding-top: 15%;
+	font-size: 20px;
+}
+
+.hero-2{
+	background-image: url("images/slide-2.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 700px;
+	padding-top: 15%;
+	font-size: 20px;
+}
+
+.hero-3{
+	background-image: url("images/slide-3.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 700px;
+	padding-top: 15%;
+	font-size: 20px;
+
+}
+
+.carousel-indicators li {
+	background-color: white;
+	height: 15px;
+	width: 15px;
+	border-radius: 50%;
+}
+
+.carousel-indicators .active{
+	background-color: red;
+}
+
+/*carousel code*/
+
+.fa-solid, .fas{
+	padding-top: 5px;
+}
+
